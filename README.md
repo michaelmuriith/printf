@@ -557,6 +557,7 @@ Output:
 ```
 
 ## Authors ✒️
+Michael wanjiru
 
 ## License 🔒
 
